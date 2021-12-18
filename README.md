@@ -2,6 +2,8 @@
 
 「頭中将にとっての先帝は、頭中将 の 配偶者 である夕顔 の 配偶者 である光源氏 の 配偶者 である藤壺中宮 の 親」のように源氏物語の血縁関係を表示させるプログラム
 
+<img src="https://github.com/maosasa/genji-graph/blob/master/keizu.jpg?raw=true" width=500>
+
 血縁関係の経路を全探索
 
 <img src="https://github.com/maosasa/genji-graph/blob/master/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202018-07-06%201.08.38.png?raw=true" width=500>
